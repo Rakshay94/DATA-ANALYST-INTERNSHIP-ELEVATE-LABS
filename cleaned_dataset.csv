@@ -1,0 +1,201 @@
+customer_id,name,gender,country,signup_date,last_purchase,age,purchase_amount,email,email_dup_flag
+C1000,User_0,Female,Unknown,17-10-2023,25-04-2023,41,228.62,user0@example.com,False
+C1001,User_1,Other,India,17-10-2023,25-04-2023,33,244.86,user1@example.com,False
+C1002,User_2,Unknown,United Kingdom,17-10-2023,12-07-2024,43,286.64,user4@example.com,True
+C1003,User_3,Unknown,Unknown,23-05-2022,12-07-2024,53,284.3,user3@example.com,False
+C1004,User_4,Female,India,23-05-2022,12-07-2024,32,89.79,user4@example.com,True
+C1005,User_5,Other,United Kingdom,23-05-2022,12-07-2024,32,124.97,user5@example.com,False
+C1006,User_6,Unknown,United Kingdom,09-03-2023,11-05-2023,54,241.2,user6@example.com,False
+C1007,User_7,Female,United Kingdom,31-01-2022,11-05-2023,44,408.6712500000001,user7@example.com,False
+C1008,User_8,Female,India,31-01-2022,09-07-2025,29,241.2,user8@example.com,False
+C1009,User_9,Other,United Kingdom,31-01-2022,09-07-2025,42,408.6712500000001,user9@example.com,False
+C1010,User_10,Female,United Kingdom,31-01-2022,09-07-2025,29,245.67,user10@example.com,False
+C1011,User_11,Female,United States,31-01-2022,13-11-2024,29,290.85,user11@example.com,False
+C1012,User_12,Female,United Kingdom,31-01-2022,13-11-2024,38,276.32,user12@example.com,False
+C1013,User_13,Female,India,31-01-2022,13-11-2024,35,252.11,user13@example.com,False
+C1014,User_14,Male,Australia,12-10-2022,13-11-2024,35,174.78,user14@example.com,False
+C1015,User_15,Female,United Kingdom,12-10-2022,13-11-2024,28,260.72,user15@example.com,False
+C1016,User_16,Female,Unknown,12-10-2022,13-11-2024,23,138.17,user16@example.com,False
+C1017,User_17,Male,United States,12-10-2022,13-11-2024,39,181.05,user17@example.com,False
+C1018,User_18,Unknown,United States,11-12-2022,13-11-2024,24,161.17,user18@example.com,False
+C1019,User_19,Male,India,11-12-2022,13-11-2024,18,206.55,user19@example.com,False
+C1020,User_20,Female,United Kingdom,11-12-2022,13-11-2024,53,385.17,user20@example.com,False
+C1021,User_21,Female,India,11-12-2022,13-11-2024,32,50.62,user56@example.com,True
+C1022,User_22,Other,United Kingdom,28-09-2022,13-11-2024,35,254.9,user22@example.com,False
+C1023,User_23,Female,India,28-09-2022,17-03-2025,35,70.98,user23@example.com,True
+C1024,User_24,Unknown,United States,28-09-2022,27-01-2024,28,162.25,user24@example.com,False
+C1025,User_25,Female,India,28-09-2022,27-01-2024,36,287.12,user25@example.com,False
+C1026,User_26,Male,Unknown,28-09-2022,27-01-2024,21,205.14,user26@example.com,False
+C1027,User_27,Female,India,28-09-2022,27-01-2024,40,113.78,user27@example.com,False
+C1028,User_28,Female,Australia,16-07-2022,27-01-2024,28,142.78,user28@example.com,False
+C1029,User_29,Female,Australia,16-07-2022,27-01-2024,31,254.37,user29@example.com,False
+C1030,User_30,Female,Australia,24-10-2022,17-08-2023,28,141.57,user30@example.com,False
+C1031,User_31,Male,United Kingdom,27-08-2022,17-08-2023,57,217.32,user31@example.com,False
+C1032,User_32,Female,United States,27-08-2022,17-08-2023,35,203.65,user32@example.com,False
+C1033,User_33,Male,United Kingdom,27-08-2022,13-10-2023,22,147.87,user33@example.com,False
+C1034,User_34,Unknown,United Kingdom,27-08-2022,13-10-2023,45,371.52,user34@example.com,False
+C1035,User_35,Male,United Kingdom,27-08-2022,13-10-2023,20,250.71,user35@example.com,False
+C1036,User_36,Female,India,27-08-2022,13-10-2023,38,37.99,user36@example.com,False
+C1037,User_37,Male,India,20-12-2023,06-12-2023,35,214.92,user37@example.com,False
+C1038,User_38,Male,United Kingdom,20-12-2023,06-12-2023,19,147.06,user38@example.com,False
+C1039,User_39,Unknown,United Kingdom,20-12-2023,06-12-2023,37,268.19,user39@example.com,False
+C1040,User_40,Female,United Kingdom,20-12-2023,29-09-2023,44,136.6,user40@example.com,False
+C1041,User_41,Male,United Kingdom,20-12-2023,29-09-2023,37,190.82,user41@example.com,False
+C1042,User_42,Other,India,20-12-2023,29-09-2023,34,240.4,user42@example.com,False
+C1043,User_43,Male,India,20-12-2023,29-09-2023,31,269.26,user43@example.com,False
+C1044,User_44,Male,Unknown,20-12-2023,29-09-2023,35,103.98,user44@example.com,False
+C1045,User_45,Female,India,20-12-2023,07-06-2024,26,173.24,user45@example.com,False
+C1046,User_46,Other,Australia,20-12-2023,07-06-2024,29,207.76,user46@example.com,False
+C1047,User_47,Other,United Kingdom,20-12-2023,07-06-2024,48,147.73,user47@example.com,False
+C1048,User_48,Other,India,20-12-2023,07-06-2024,39,341.24,user75@example.com,True
+C1049,User_49,Female,United Kingdom,20-12-2023,07-06-2024,35,232.4,user49@example.com,False
+C1050,User_50,Male,United States,20-12-2023,07-06-2024,39,99.13,user50@example.com,False
+C1051,User_51,Male,India,20-12-2023,07-06-2024,30,273.43,user51@example.com,False
+C1052,User_52,Female,Unknown,20-12-2023,07-06-2024,27,369.77,user52@example.com,False
+C1053,User_53,Other,United Kingdom,20-12-2023,07-06-2024,42,282.6,user53@example.com,False
+C1054,User_54,Male,Unknown,20-12-2023,07-06-2024,47,78.45,user54@example.com,False
+C1055,User_55,Male,United Kingdom,20-12-2023,10-11-2024,46,161.26,user55@example.com,False
+C1056,User_56,Other,United Kingdom,20-12-2023,10-11-2024,25,301.35,user56@example.com,True
+C1057,User_57,Other,Australia,20-12-2023,10-11-2024,31,143.39,user57@example.com,False
+C1058,User_58,Male,Australia,20-12-2023,10-11-2024,39,235.51,user58@example.com,False
+C1059,User_59,Male,United States,04-04-2022,10-11-2024,47,261.97,user59@example.com,False
+C1060,User_60,Male,United Kingdom,04-04-2022,10-11-2024,29,125.85,user60@example.com,False
+C1061,User_61,Male,United States,04-04-2022,10-11-2024,33,195.24,user103@example.com,True
+C1062,User_62,Female,United States,04-04-2022,10-11-2024,35,207.76,user62@example.com,True
+C1063,User_63,Male,United Kingdom,03-09-2023,10-11-2024,21,118.05,user63@example.com,False
+C1064,User_64,Female,Australia,03-09-2023,10-11-2024,45,179.79,user64@example.com,False
+C1065,User_65,Male,India,03-09-2023,10-11-2024,51,100.18,user65@example.com,False
+C1066,User_66,Unknown,United States,03-09-2023,10-11-2024,34,330.59,user66@example.com,False
+C1067,User_67,Other,United Kingdom,21-07-2023,15-07-2024,47,85.59,user67@example.com,False
+C1068,User_68,Female,United States,28-11-2023,15-07-2024,39,164.8,user68@example.com,False
+C1069,User_69,Unknown,United Kingdom,28-11-2023,15-07-2024,27,210.46,user69@example.com,False
+C1070,User_70,Other,United Kingdom,28-11-2023,15-07-2024,39,315.3,user125@example.com,False
+C1071,User_71,Other,United States,28-11-2023,15-07-2024,35,85.13,user121@example.com,True
+C1072,User_72,Other,Unknown,28-11-2023,15-07-2024,35,293.05,user72@example.com,False
+C1073,User_73,Female,United States,10-04-2023,15-07-2024,54,200.82,user73@example.com,False
+C1074,User_74,Other,United Kingdom,10-04-2023,15-07-2024,35,121.48,user74@example.com,False
+C1075,User_75,Female,Australia,10-04-2023,15-07-2024,45,236.97,user75@example.com,True
+C1076,User_76,Male,United States,10-04-2023,05-11-2024,36,215.92,user76@example.com,False
+C1077,User_77,Male,United States,10-04-2023,05-11-2024,31,151.98,user77@example.com,False
+C1078,User_78,Female,United Kingdom,10-04-2023,05-11-2024,36,205.58,user78@example.com,True
+C1079,User_79,Female,India,10-04-2023,10-12-2023,35,169.17,user79@example.com,False
+C1080,User_80,Female,India,10-04-2023,10-12-2023,32,209.08,user80@example.com,False
+C1081,User_81,Male,Australia,28-06-2023,10-12-2023,39,252.97,user81@example.com,False
+C1082,User_82,Male,Unknown,28-06-2023,10-12-2023,53,326.88,user82@example.com,False
+C1083,User_83,Female,United Kingdom,16-05-2023,31-05-2023,29,207.76,user83@example.com,False
+C1084,User_84,Male,Australia,16-05-2023,31-05-2023,25,370.64,user84@example.com,False
+C1085,User_85,Unknown,United States,16-05-2023,31-05-2023,29,43.83,user85@example.com,False
+C1086,User_86,Male,India,16-05-2023,20-05-2025,46,207.76,user86@example.com,False
+C1087,User_87,Male,Australia,04-08-2023,20-05-2025,39,247.07,user87@example.com,False
+C1088,User_88,Male,United Kingdom,04-08-2023,20-05-2025,29,222.48,user88@example.com,False
+C1089,User_89,Other,United Kingdom,04-08-2023,20-05-2025,41,150.18,user89@example.com,False
+C1090,User_90,Other,India,04-08-2023,20-05-2025,36,183.35,user90@example.com,False
+C1091,User_91,Other,Australia,04-08-2023,20-05-2025,47,160.56,user91@example.com,False
+C1092,User_92,Female,Unknown,04-08-2023,02-11-2024,27,152.85,user92@example.com,False
+C1093,User_93,Male,United Kingdom,04-08-2023,03-07-2025,31,267.97,user93@example.com,False
+C1094,User_94,Female,United Kingdom,04-08-2023,03-07-2025,30,228.56,user94@example.com,False
+C1095,User_95,Female,United States,04-08-2023,03-07-2025,35,144.57,user95@example.com,False
+C1096,User_96,Female,Australia,04-08-2023,03-07-2025,39,271.97,user96@example.com,False
+C1097,User_97,Other,United States,04-08-2023,20-04-2024,35,224.58,user97@example.com,False
+C1098,User_98,Male,India,04-08-2023,20-04-2024,35,265.03,user98@example.com,False
+C1099,User_99,Female,Australia,04-08-2023,28-07-2025,32,250.37,user99@example.com,False
+C1100,User_100,Female,Australia,08-04-2023,28-07-2025,18,133.68,user100@example.com,False
+C1101,User_101,Female,India,08-04-2023,28-07-2025,30,155.19,user101@example.com,False
+C1102,User_102,Other,India,08-04-2023,28-07-2025,31,259.78,user102@example.com,False
+C1103,User_103,Male,Unknown,08-04-2023,28-07-2025,25,248.83,user103@example.com,True
+C1104,User_104,Unknown,United States,08-04-2023,28-07-2025,33,198.33,user62@example.com,True
+C1105,User_105,Female,United Kingdom,08-04-2023,28-07-2025,40,209.39,user105@example.com,False
+C1106,User_106,Male,United States,08-01-2022,28-07-2025,58,302.21,user106@example.com,False
+C1107,User_107,Female,Australia,26-12-2023,28-07-2025,37,152.67,user107@example.com,False
+C1108,User_108,Male,Unknown,23-08-2022,28-07-2025,38,243.77,user108@example.com,False
+C1109,User_109,Male,United States,23-08-2022,28-07-2025,34,183.82,user109@example.com,False
+C1110,User_110,Male,United Kingdom,23-08-2022,28-07-2025,35,182.59,user110@example.com,False
+C1111,User_111,Male,United States,23-08-2022,28-07-2025,35,287.9,user111@example.com,False
+C1112,User_112,Female,Unknown,23-08-2022,28-07-2025,36,266.03,user112@example.com,False
+C1113,User_113,Female,India,23-08-2022,28-07-2025,65,265.08,user113@example.com,False
+C1114,User_114,Other,United States,23-08-2022,28-07-2025,33,304.44,user114@example.com,True
+C1115,User_115,Male,United States,23-08-2022,28-07-2025,35,201.68,user115@example.com,False
+C1116,User_116,Other,India,23-08-2022,28-07-2025,35,254.56,user116@example.com,False
+C1117,User_117,Female,United States,23-08-2022,28-07-2025,21,175.18,user117@example.com,False
+C1118,User_118,Other,India,07-04-2022,28-07-2025,35,225.93,user118@example.com,False
+C1119,User_119,Female,India,07-04-2022,28-07-2025,35,189.59,user119@example.com,False
+C1120,User_120,Unknown,India,07-04-2022,28-07-2025,44,207.76,user120@example.com,False
+C1121,User_121,Unknown,United Kingdom,07-04-2022,28-07-2025,24,247.61,user121@example.com,True
+C1122,User_122,Other,United States,25-02-2022,28-07-2025,52,134.54,user122@example.com,False
+C1123,User_123,Other,India,25-02-2022,28-07-2025,35,367.39,user123@example.com,False
+C1124,User_124,Male,United Kingdom,14-12-2022,28-07-2025,42,119.52,user124@example.com,False
+C1125,User_125,Male,United Kingdom,14-12-2022,28-07-2025,61,102.86,user78@example.com,True
+C1126,User_126,Other,Australia,14-12-2022,01-03-2024,23,207.76,user126@example.com,False
+C1127,User_127,Female,Australia,14-12-2022,01-03-2024,28,263.33,user127@example.com,False
+C1128,User_128,Female,United States,14-12-2022,01-03-2024,36,249.93,user128@example.com,False
+C1129,User_129,Male,United States,14-12-2022,13-12-2024,29,250.27,user129@example.com,False
+C1130,User_130,Male,United States,13-09-2022,13-12-2024,35,199.02,user130@example.com,False
+C1131,User_131,Female,United States,13-09-2022,13-12-2024,36,128.22,user131@example.com,False
+C1132,User_132,Male,Australia,11-04-2022,13-12-2024,22,206.06,user23@example.com,True
+C1133,User_133,Female,United Kingdom,11-04-2022,13-12-2024,41,145.83,user133@example.com,False
+C1134,User_134,Male,Australia,16-01-2022,13-12-2024,24,278.01,user134@example.com,False
+C1135,User_135,Male,Australia,16-01-2022,13-12-2024,54,188.24,user135@example.com,False
+C1136,User_136,Other,India,16-01-2022,13-12-2024,26,133.96,user136@example.com,False
+C1137,User_137,Unknown,United Kingdom,16-01-2022,13-12-2024,35,174.29,user137@example.com,False
+C1138,User_138,Other,Australia,15-02-2023,13-12-2024,45,233.03,user138@example.com,False
+C1139,User_139,Female,United States,15-02-2023,13-12-2024,20,154.9,user139@example.com,False
+C1140,User_140,Male,India,15-02-2023,12-05-2024,38,134.22,user140@example.com,False
+C1141,User_141,Other,United Kingdom,15-02-2023,12-05-2024,51,219.49,user141@example.com,False
+C1142,User_142,Other,Australia,15-02-2023,12-05-2024,35,219.6,user114@example.com,True
+C1143,User_143,Male,India,15-02-2023,12-05-2024,37,159.44,user143@example.com,False
+C1144,User_144,Other,United Kingdom,15-02-2023,12-05-2024,38,162.32,user144@example.com,False
+C1145,User_145,Female,India,15-02-2023,12-05-2024,35,218.56,user145@example.com,False
+C1146,User_146,Other,Australia,15-02-2023,12-05-2024,20,84.15,user146@example.com,False
+C1147,User_147,Female,United States,15-02-2023,12-05-2024,19,87.4,user147@example.com,False
+C1148,User_148,Female,United Kingdom,10-07-2023,12-05-2024,41,142.52,user148@example.com,True
+C1149,User_149,Male,India,18-11-2022,09-11-2024,39,182.92,user149@example.com,False
+C1150,User_150,Male,Australia,18-11-2022,09-11-2024,38,224.87,user150@example.com,False
+C1151,User_151,Female,United Kingdom,18-11-2022,09-11-2024,39,318.03,user151@example.com,False
+C1152,User_152,Other,United States,18-11-2022,06-07-2023,27,268.61,user165@example.com,True
+C1153,User_153,Other,United States,18-11-2022,06-07-2023,38,187.2,user153@example.com,False
+C1154,User_154,Female,United Kingdom,18-11-2022,06-07-2023,39,198.48,user154@example.com,False
+C1155,User_155,Other,India,18-11-2022,06-07-2023,26,119.8,user155@example.com,False
+C1156,User_156,Unknown,Australia,18-11-2022,06-07-2023,35,198.52,user156@example.com,False
+C1157,User_157,Male,India,18-02-2023,06-07-2023,35,176.91,user157@example.com,False
+C1158,User_158,Other,Australia,18-02-2023,16-09-2023,21,225.82,user158@example.com,False
+C1159,User_159,Male,United Kingdom,18-02-2023,26-04-2024,43,133.82,user159@example.com,False
+C1160,User_160,Female,Unknown,18-02-2023,26-04-2024,23,241.55,user160@example.com,False
+C1161,User_161,Female,India,18-02-2023,26-04-2024,44,322.62,user161@example.com,False
+C1162,User_162,Female,United Kingdom,18-02-2023,18-08-2023,49,191.3,user162@example.com,False
+C1163,User_163,Male,India,18-02-2023,10-03-2025,25,232.14,user163@example.com,False
+C1164,User_164,Other,India,18-02-2023,11-02-2025,47,255.21,user164@example.com,False
+C1165,User_165,Unknown,United Kingdom,18-02-2023,11-02-2025,40,167.9,user165@example.com,True
+C1166,User_166,Male,United Kingdom,18-02-2023,09-05-2025,45,217.93,user166@example.com,False
+C1167,User_167,Unknown,United States,18-02-2023,09-05-2025,58,201.01,user167@example.com,False
+C1168,User_168,Other,India,18-02-2023,09-05-2025,32,207.81,user168@example.com,False
+C1169,User_169,Other,United Kingdom,18-02-2023,29-04-2024,26,138.16,user169@example.com,True
+C1170,User_170,Male,Australia,16-03-2022,29-04-2024,24,201.96,user170@example.com,False
+C1171,User_171,Female,India,16-03-2022,29-04-2024,35,239.84,user171@example.com,False
+C1172,User_172,Unknown,Australia,31-07-2023,29-04-2024,34,316.09,user172@example.com,False
+C1173,User_173,Female,India,31-07-2023,29-04-2024,39,276.74,user173@example.com,False
+C1174,User_174,Other,Unknown,31-07-2023,13-09-2024,38,372.25,user174@example.com,False
+C1175,User_175,Other,India,31-07-2023,13-09-2024,45,138.61,user175@example.com,False
+C1176,User_176,Male,United States,24-12-2022,15-11-2023,35,269.79,user148@example.com,True
+C1177,User_177,Female,Australia,24-12-2022,15-08-2024,52,214.67,user177@example.com,True
+C1178,User_178,Female,United Kingdom,24-12-2022,15-08-2024,32,375.18,user178@example.com,False
+C1179,User_179,Unknown,India,24-12-2022,15-08-2024,68,135.34,user182@example.com,True
+C1180,User_180,Male,United States,24-12-2022,15-08-2024,43,132.82,user180@example.com,False
+C1181,User_181,Female,Australia,24-12-2022,15-08-2024,25,152.05,user181@example.com,False
+C1182,User_182,Other,Australia,24-12-2022,15-08-2024,22,30.09,user182@example.com,True
+C1183,User_183,Other,Unknown,03-11-2022,15-08-2024,41,157.94,user183@example.com,False
+C1184,User_184,Male,United States,03-11-2022,15-08-2024,32,139.27,user177@example.com,True
+C1185,User_185,Male,Australia,29-04-2022,04-04-2025,44,212.03,user185@example.com,False
+C1186,User_186,Female,Unknown,29-04-2022,04-04-2025,41,227.34,user186@example.com,False
+C1187,User_187,Male,United Kingdom,29-04-2022,12-03-2025,34,350.09,user187@example.com,False
+C1188,User_188,Female,India,29-04-2022,12-03-2025,25,276.03,user188@example.com,False
+C1189,User_189,Unknown,India,29-04-2022,12-03-2025,35,153.85,user189@example.com,False
+C1190,User_190,Male,Australia,29-04-2022,12-03-2025,30,128.13,user190@example.com,False
+C1191,User_191,Unknown,India,29-04-2022,12-03-2025,45,239.35,user191@example.com,False
+C1192,User_192,Other,India,15-09-2022,12-03-2025,35,94.38,user192@example.com,False
+C1193,User_193,Male,Australia,15-09-2022,12-03-2025,20,346.52,user193@example.com,False
+C1194,User_194,Female,India,11-10-2022,12-03-2025,37,294.36,user169@example.com,True
+C1195,User_195,Male,Australia,11-10-2022,12-03-2025,40,162.47,user195@example.com,False
+C1196,User_196,Other,India,11-10-2022,12-03-2025,24,62.95,user196@example.com,False
+C1197,User_197,Male,Australia,11-10-2022,12-03-2025,37,308.31,user197@example.com,False
+C1198,User_198,Male,Unknown,11-10-2022,12-03-2025,35,190.84,user198@example.com,False
+C1199,User_199,Other,Australia,29-07-2023,12-03-2025,21,299.03,user199@example.com,False

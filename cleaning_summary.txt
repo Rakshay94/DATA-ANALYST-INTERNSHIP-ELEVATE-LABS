@@ -1,0 +1,9 @@
+
+Summary of Cleaning Task:
+- Removed 5 exact duplicate rows (total rows after deduplication: 200).
+- Filled 10 missing age values with median age (34.6) and replaced 18 outlier ages (outside 18-100) with median.
+- Standardized gender values to consistent categories: Female, Male, Other, Unknown.
+- Standardized country names to canonical forms: Australia, India, United Kingdom, United States, Unknown.
+- Parsed and unified date formats for signup_date and last_purchase to dd-mm-yyyy. Forward-filled 159 missing signup_date and 161 missing last_purchase before formatting.
+- Corrected negative or zero purchase_amount entries (count: 5) by replacing with median, and capped extreme outliers using IQR bounds (-1.18, 408.67).
+- Flagged duplicate emails: 28 entries have duplicated emails (flag column added).
