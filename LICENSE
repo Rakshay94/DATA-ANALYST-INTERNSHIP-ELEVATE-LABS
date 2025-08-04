@@ -1,0 +1,66 @@
+
+---
+
+### Sample Python script snippet (`task1_cleaning.py`)
+```python
+import pandas as pd
+import numpy as np
+
+# Load raw dataset (assumes raw_dataset.csv is present)
+df = pd.read_csv("raw_dataset.csv")
+
+# 1. Drop exact duplicates
+df = df.drop_duplicates()
+
+# 2. Normalize column names
+df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
+
+# 3. Handle age: fill missing and cap unrealistic
+median_age = df.loc[df["age"].between(1, 100), "age"].median()
+df["age"] = df["age"].fillna(median_age)
+df.loc[~df["age"].between(18, 100), "age"] = median_age
+df["age"] = df["age"].round().astype(int)
+
+# 4. Standardize gender
+df["gender"] = df["gender"].astype(str).str.strip().str.lower()
+df["gender"] = df["gender"].replace({"m": "male", "f": "female", "nan": "unknown", "none": "unknown"})
+df["gender"] = df["gender"].fillna("unknown").str.capitalize()
+
+# 5. Standardize country
+country_map = {
+    "usa": "United States", "united states": "United States", "us": "United States",
+    "india": "India", "in": "India",
+    "uk": "United Kingdom", "united kingdom": "United Kingdom", "u.k.": "United Kingdom",
+    "australia": "Australia", "au": "Australia"
+}
+df["country"] = df["country"].astype(str).str.strip().str.lower().replace(country_map)
+df["country"] = df["country"].fillna("Unknown")
+df.loc[df["country"] == "nan", "country"] = "Unknown"
+
+# 6. Date parsing and formatting
+df["signup_date"] = pd.to_datetime(df["signup_date"], errors="coerce", infer_datetime_format=True)
+df["last_purchase"] = pd.to_datetime(df["last_purchase"], errors="coerce", infer_datetime_format=True)
+df["signup_date"] = df["signup_date"].fillna(method="ffill").dt.strftime("%d-%m-%Y")
+df["last_purchase"] = df["last_purchase"].fillna(method="ffill").dt.strftime("%d-%m-%Y")
+
+# 7. Purchase amount: fix negatives and cap outliers
+df["purchase_amount"] = pd.to_numeric(df["purchase_amount"], errors="coerce")
+median_purchase = df.loc[df["purchase_amount"] > 0, "purchase_amount"].median()
+df.loc[df["purchase_amount"] <= 0, "purchase_amount"] = median_purchase
+Q1 = df["purchase_amount"].quantile(0.25)
+Q3 = df["purchase_amount"].quantile(0.75)
+IQR = Q3 - Q1
+lower = Q1 - 1.5 * IQR
+upper = Q3 + 1.5 * IQR
+df["purchase_amount"] = df["purchase_amount"].clip(lower=lower, upper=upper)
+
+# 8. Flag duplicate emails
+df["email_dup_flag"] = df.duplicated(subset=["email"], keep=False)
+
+# Export cleaned data
+df.to_csv("cleaned_dataset.csv", index=False)
+
+# Optionally, print a small summary
+print("Original rows:", len(pd.read_csv("raw_dataset.csv")))
+print("Cleaned rows:", len(df))
+print("Duplicate emails flagged:", df["email_dup_flag"].sum())
