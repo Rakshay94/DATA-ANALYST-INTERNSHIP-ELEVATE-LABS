@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,State,Region,Segment,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-1000,16-10-2024,17-10-2024,Texas,Central,Consumer,Furniture,Bookcases,Product_5,739.11,9,0.0,147.82
+ORD-1001,27-08-2024,31-08-2024,Texas,East,Consumer,Furniture,Chairs,Product_17,606.0,9,0.1,60.6
+ORD-1002,27-10-2024,02-11-2024,Illinois,West,Corporate,Technology,Accessories,Product_9,811.34,1,0.1,81.13
+ORD-1003,15-12-2024,19-12-2024,New York,West,Consumer,Office Supplies,Paper,Product_4,101.82,2,0.2,0.0
+ORD-1004,19-12-2023,24-12-2023,California,South,Home Office,Office Supplies,Binders,Product_13,88.01,5,0.2,0.0
+ORD-1005,14-08-2024,16-08-2024,Texas,East,Home Office,Technology,Phones,Product_10,985.37,4,0.0,197.07
+ORD-1006,25-01-2024,28-01-2024,New York,Central,Consumer,Office Supplies,Pens,Product_12,217.41,5,0.0,43.48
+ORD-1007,15-09-2024,21-09-2024,Florida,West,Consumer,Furniture,Bookcases,Product_13,277.25,9,0.1,27.73
+ORD-1008,02-12-2024,05-12-2024,Florida,East,Corporate,Furniture,Chairs,Product_9,75.53,10,0.2,0.0
+ORD-1009,06-08-2023,12-08-2023,New York,South,Consumer,Office Supplies,Paper,Product_5,254.16,9,0.2,0.0
+ORD-1010,21-08-2024,25-08-2024,Texas,Central,Consumer,Technology,Accessories,Product_17,498.58,1,0.0,99.72
+ORD-1011,06-06-2023,12-06-2023,California,South,Home Office,Furniture,Bookcases,Product_13,387.8,8,0.2,0.0
+ORD-1012,20-07-2024,27-07-2024,Illinois,East,Home Office,Furniture,Bookcases,Product_9,770.91,6,0.0,154.18
+ORD-1013,28-10-2023,01-11-2023,Washington,East,Home Office,Furniture,Tables,Product_9,972.17,3,0.0,194.43
+ORD-1014,02-10-2024,05-10-2024,New York,West,Consumer,Technology,Copiers,Product_6,543.99,9,0.0,108.8
+ORD-1015,05-09-2024,08-09-2024,New York,East,Corporate,Office Supplies,Binders,Product_8,67.35,10,0.0,13.47
+ORD-1016,29-03-2023,04-04-2023,Washington,West,Consumer,Office Supplies,Binders,Product_16,947.38,3,0.2,0.0
+ORD-1017,24-06-2024,01-07-2024,Washington,West,Home Office,Technology,Accessories,Product_7,715.82,7,0.2,0.0
+ORD-1018,24-03-2024,29-03-2024,California,West,Consumer,Office Supplies,Binders,Product_11,30.82,9,0.1,3.08
+ORD-1019,25-08-2024,27-08-2024,California,East,Consumer,Furniture,Chairs,Product_2,861.04,2,0.1,86.1
+ORD-1020,13-10-2023,19-10-2023,Illinois,West,Home Office,Office Supplies,Binders,Product_19,477.94,8,0.3,-47.79
+ORD-1021,14-07-2023,15-07-2023,Florida,South,Corporate,Furniture,Bookcases,Product_14,472.35,1,0.0,94.47
+ORD-1022,04-03-2023,08-03-2023,Texas,East,Consumer,Technology,Accessories,Product_7,540.92,3,0.3,-54.09
+ORD-1023,07-07-2023,10-07-2023,Illinois,East,Corporate,Office Supplies,Binders,Product_4,60.08,9,0.0,12.02
+ORD-1024,06-04-2023,13-04-2023,Florida,South,Corporate,Furniture,Chairs,Product_7,866.0,1,0.1,86.6
+ORD-1025,24-01-2024,25-01-2024,Florida,South,Corporate,Office Supplies,Paper,Product_18,665.25,8,0.1,66.53
+ORD-1026,14-07-2023,17-07-2023,New York,East,Home Office,Furniture,Chairs,Product_2,59.64,8,0.1,5.96
+ORD-1027,28-02-2023,05-03-2023,California,East,Home Office,Furniture,Chairs,Product_8,409.74,10,0.1,40.97
+ORD-1028,15-08-2024,20-08-2024,Washington,East,Corporate,Furniture,Bookcases,Product_19,569.57,6,0.2,0.0
+ORD-1029,29-07-2023,04-08-2023,Florida,West,Corporate,Technology,Accessories,Product_5,674.97,5,0.3,-67.5
+ORD-1030,20-11-2023,27-11-2023,Illinois,South,Home Office,Furniture,Chairs,Product_4,82.53,4,0.2,0.0
+ORD-1031,16-05-2023,19-05-2023,Texas,Central,Corporate,Furniture,Chairs,Product_15,835.41,5,0.0,167.08
+ORD-1032,14-11-2024,21-11-2024,New York,East,Consumer,Technology,Accessories,Product_4,890.82,9,0.1,89.08
+ORD-1033,06-10-2023,09-10-2023,Washington,Central,Consumer,Technology,Phones,Product_9,510.35,5,0.0,102.07
+ORD-1034,05-04-2023,11-04-2023,New York,East,Consumer,Office Supplies,Paper,Product_5,640.74,5,0.1,64.07
+ORD-1035,28-03-2024,02-04-2024,California,East,Consumer,Technology,Accessories,Product_5,550.13,6,0.1,55.01
+ORD-1036,16-03-2024,18-03-2024,New York,Central,Consumer,Furniture,Tables,Product_7,685.25,2,0.2,0.0
+ORD-1037,27-07-2024,03-08-2024,Texas,West,Consumer,Office Supplies,Pens,Product_6,882.6,1,0.1,88.26
+ORD-1038,07-12-2023,14-12-2023,Texas,West,Corporate,Office Supplies,Pens,Product_4,388.72,1,0.3,-38.87
+ORD-1039,16-08-2023,18-08-2023,Texas,Central,Consumer,Office Supplies,Paper,Product_1,663.43,7,0.2,0.0
+ORD-1040,13-10-2023,20-10-2023,Illinois,Central,Home Office,Furniture,Tables,Product_13,682.72,9,0.2,0.0
+ORD-1041,29-01-2023,30-01-2023,California,Central,Consumer,Office Supplies,Binders,Product_20,440.22,6,0.3,-44.02
+ORD-1042,12-09-2024,17-09-2024,California,West,Corporate,Furniture,Tables,Product_14,11.67,9,0.1,1.17
+ORD-1043,08-01-2024,12-01-2024,New York,Central,Home Office,Furniture,Bookcases,Product_4,722.56,5,0.2,0.0
+ORD-1044,13-11-2024,17-11-2024,Texas,Central,Home Office,Office Supplies,Paper,Product_7,426.24,7,0.1,42.62
+ORD-1045,22-09-2024,27-09-2024,New York,East,Corporate,Office Supplies,Paper,Product_7,435.59,10,0.2,0.0
+ORD-1046,21-04-2024,25-04-2024,Florida,West,Home Office,Office Supplies,Pens,Product_6,662.26,5,0.2,0.0
+ORD-1047,06-04-2023,13-04-2023,Texas,Central,Consumer,Furniture,Bookcases,Product_5,34.18,4,0.3,-3.42
+ORD-1048,17-09-2024,24-09-2024,Illinois,South,Home Office,Furniture,Tables,Product_7,721.16,7,0.3,-72.12
+ORD-1049,14-02-2024,16-02-2024,Florida,East,Consumer,Furniture,Bookcases,Product_8,184.13,9,0.3,-18.41
+ORD-1050,21-02-2023,26-02-2023,Florida,South,Consumer,Furniture,Chairs,Product_17,988.01,10,0.2,0.0
+ORD-1051,29-03-2024,03-04-2024,Florida,South,Home Office,Technology,Copiers,Product_6,746.22,8,0.3,-74.62
+ORD-1052,23-09-2023,30-09-2023,Florida,Central,Home Office,Furniture,Bookcases,Product_8,281.85,2,0.2,0.0
+ORD-1053,29-08-2023,01-09-2023,Texas,East,Consumer,Office Supplies,Paper,Product_8,389.2,3,0.1,38.92
+ORD-1054,07-03-2023,11-03-2023,California,South,Corporate,Office Supplies,Paper,Product_7,834.56,7,0.0,166.91
+ORD-1055,12-08-2024,16-08-2024,Florida,Central,Corporate,Office Supplies,Binders,Product_14,542.84,9,0.1,54.28
+ORD-1056,14-05-2024,16-05-2024,Florida,South,Consumer,Office Supplies,Paper,Product_11,672.18,7,0.1,67.22
+ORD-1057,23-04-2024,25-04-2024,Illinois,East,Corporate,Technology,Copiers,Product_19,666.37,2,0.3,-66.64
+ORD-1058,19-05-2023,26-05-2023,Florida,East,Corporate,Office Supplies,Binders,Product_11,219.54,6,0.2,0.0
+ORD-1059,24-01-2024,27-01-2024,California,East,Corporate,Office Supplies,Paper,Product_18,61.56,6,0.1,6.16
+ORD-1060,27-10-2024,28-10-2024,Texas,East,Consumer,Technology,Phones,Product_1,625.12,4,0.1,62.51
+ORD-1061,29-04-2024,05-05-2024,Washington,West,Corporate,Furniture,Bookcases,Product_9,769.23,3,0.0,153.85
+ORD-1062,17-06-2023,20-06-2023,Illinois,East,Corporate,Furniture,Bookcases,Product_13,402.69,4,0.0,80.54
+ORD-1063,29-08-2024,04-09-2024,New York,East,Home Office,Technology,Phones,Product_20,807.47,10,0.0,161.49
+ORD-1064,22-12-2023,27-12-2023,Illinois,Central,Consumer,Office Supplies,Pens,Product_11,22.53,7,0.3,-2.25
+ORD-1065,19-04-2023,23-04-2023,Texas,South,Home Office,Office Supplies,Pens,Product_14,184.38,9,0.2,0.0
+ORD-1066,22-09-2024,29-09-2024,Washington,South,Corporate,Technology,Accessories,Product_19,275.71,4,0.0,55.14
+ORD-1067,13-10-2023,17-10-2023,California,South,Corporate,Furniture,Tables,Product_16,852.44,3,0.3,-85.24
+ORD-1068,06-08-2023,09-08-2023,Washington,Central,Home Office,Office Supplies,Paper,Product_9,560.23,9,0.1,56.02
+ORD-1069,29-03-2023,31-03-2023,Texas,South,Home Office,Technology,Accessories,Product_16,649.44,8,0.3,-64.94
+ORD-1070,18-01-2023,19-01-2023,Texas,South,Home Office,Office Supplies,Binders,Product_10,667.32,6,0.3,-66.73
+ORD-1071,20-07-2024,25-07-2024,Washington,Central,Corporate,Office Supplies,Paper,Product_15,278.21,5,0.1,27.82
+ORD-1072,04-05-2023,10-05-2023,Illinois,East,Home Office,Furniture,Tables,Product_6,199.63,8,0.2,0.0
+ORD-1073,26-08-2024,02-09-2024,Texas,Central,Consumer,Technology,Copiers,Product_10,235.21,3,0.2,0.0
+ORD-1074,15-01-2023,21-01-2023,California,Central,Consumer,Technology,Phones,Product_18,299.22,3,0.3,-29.92
+ORD-1075,16-04-2023,23-04-2023,Florida,Central,Corporate,Furniture,Bookcases,Product_15,347.3,1,0.2,0.0
+ORD-1076,04-05-2024,05-05-2024,Illinois,South,Consumer,Furniture,Tables,Product_2,160.21,10,0.2,0.0
+ORD-1077,29-03-2023,31-03-2023,Illinois,South,Home Office,Furniture,Bookcases,Product_20,233.43,9,0.3,-23.34
+ORD-1078,06-04-2024,10-04-2024,Illinois,South,Corporate,Office Supplies,Pens,Product_20,69.63,2,0.1,6.96
+ORD-1079,02-10-2024,04-10-2024,Texas,East,Consumer,Office Supplies,Pens,Product_6,556.47,3,0.0,111.29
+ORD-1080,23-02-2024,27-02-2024,California,South,Corporate,Technology,Copiers,Product_8,295.22,5,0.3,-29.52
+ORD-1081,14-03-2023,20-03-2023,California,West,Corporate,Furniture,Tables,Product_18,232.56,3,0.2,0.0
+ORD-1082,26-05-2023,27-05-2023,Washington,Central,Home Office,Furniture,Chairs,Product_19,921.98,8,0.0,184.4
+ORD-1083,24-04-2024,30-04-2024,Illinois,South,Corporate,Office Supplies,Pens,Product_18,498.86,2,0.0,99.77
+ORD-1084,18-03-2024,24-03-2024,California,Central,Consumer,Office Supplies,Pens,Product_8,962.29,10,0.0,192.46
+ORD-1085,19-11-2024,26-11-2024,Florida,East,Consumer,Office Supplies,Pens,Product_17,654.99,5,0.1,65.5
+ORD-1086,22-08-2024,26-08-2024,New York,East,Corporate,Technology,Accessories,Product_14,339.98,2,0.1,34.0
+ORD-1087,04-12-2023,08-12-2023,Florida,Central,Home Office,Technology,Accessories,Product_18,46.33,2,0.2,0.0
+ORD-1088,16-09-2023,19-09-2023,Illinois,East,Home Office,Furniture,Tables,Product_15,419.12,4,0.2,0.0
+ORD-1089,29-09-2024,06-10-2024,Texas,South,Consumer,Office Supplies,Pens,Product_9,553.73,5,0.3,-55.37
+ORD-1090,16-12-2024,20-12-2024,Texas,West,Home Office,Furniture,Chairs,Product_10,555.33,9,0.3,-55.53
+ORD-1091,06-04-2023,08-04-2023,Texas,East,Home Office,Furniture,Tables,Product_16,933.33,5,0.2,0.0
+ORD-1092,01-03-2024,08-03-2024,Illinois,West,Corporate,Office Supplies,Paper,Product_5,389.75,10,0.1,38.98
+ORD-1093,13-03-2023,16-03-2023,New York,Central,Consumer,Office Supplies,Paper,Product_10,839.1,10,0.3,-83.91
+ORD-1094,02-06-2023,06-06-2023,Illinois,Central,Corporate,Technology,Accessories,Product_18,383.44,6,0.1,38.34
+ORD-1095,15-12-2024,17-12-2024,California,West,Corporate,Technology,Accessories,Product_11,747.26,7,0.3,-74.73
+ORD-1096,10-11-2024,17-11-2024,Texas,South,Consumer,Technology,Phones,Product_17,965.7,6,0.0,193.14
+ORD-1097,26-03-2024,27-03-2024,Texas,East,Home Office,Technology,Accessories,Product_14,872.22,3,0.0,174.44
+ORD-1098,25-04-2024,02-05-2024,California,South,Home Office,Office Supplies,Paper,Product_11,853.82,9,0.3,-85.38
+ORD-1099,21-11-2023,27-11-2023,California,East,Home Office,Technology,Accessories,Product_8,634.85,5,0.1,63.49
+ORD-1100,03-04-2023,07-04-2023,Texas,East,Corporate,Furniture,Bookcases,Product_10,904.39,1,0.2,0.0
+ORD-1101,27-02-2023,02-03-2023,Texas,South,Consumer,Office Supplies,Paper,Product_17,417.93,3,0.1,41.79
+ORD-1102,29-06-2023,30-06-2023,Illinois,West,Corporate,Technology,Accessories,Product_5,239.87,5,0.3,-23.99
+ORD-1103,19-09-2023,25-09-2023,Illinois,Central,Home Office,Furniture,Tables,Product_6,83.12,6,0.2,0.0
+ORD-1104,16-10-2024,20-10-2024,Texas,South,Corporate,Technology,Accessories,Product_13,854.8,2,0.1,85.48
+ORD-1105,26-01-2024,31-01-2024,New York,Central,Home Office,Office Supplies,Pens,Product_1,978.17,7,0.2,0.0
+ORD-1106,09-01-2023,14-01-2023,Washington,East,Home Office,Technology,Copiers,Product_16,834.51,5,0.1,83.45
+ORD-1107,13-09-2024,20-09-2024,New York,West,Home Office,Office Supplies,Binders,Product_5,631.97,1,0.2,0.0
+ORD-1108,27-03-2024,28-03-2024,New York,West,Consumer,Technology,Accessories,Product_11,750.01,3,0.1,75.0
+ORD-1109,16-05-2023,23-05-2023,New York,Central,Consumer,Technology,Accessories,Product_16,967.71,5,0.2,0.0
+ORD-1110,28-04-2023,02-05-2023,Washington,West,Home Office,Furniture,Chairs,Product_13,967.6,9,0.2,0.0
+ORD-1111,03-04-2023,10-04-2023,California,Central,Home Office,Office Supplies,Binders,Product_15,374.9,5,0.3,-37.49
+ORD-1112,15-10-2024,18-10-2024,California,West,Corporate,Furniture,Bookcases,Product_20,885.39,9,0.2,0.0
+ORD-1113,16-09-2024,18-09-2024,New York,South,Home Office,Technology,Phones,Product_14,125.51,1,0.0,25.1
+ORD-1114,08-11-2023,12-11-2023,Texas,West,Home Office,Furniture,Chairs,Product_13,459.11,9,0.3,-45.91
+ORD-1115,24-08-2024,30-08-2024,California,South,Home Office,Technology,Phones,Product_16,619.5,5,0.0,123.9
+ORD-1116,07-12-2024,10-12-2024,New York,South,Consumer,Furniture,Tables,Product_4,981.12,6,0.2,0.0
+ORD-1117,04-03-2023,08-03-2023,California,East,Corporate,Office Supplies,Binders,Product_7,645.29,10,0.0,129.06
+ORD-1118,21-02-2023,28-02-2023,Texas,West,Home Office,Office Supplies,Binders,Product_3,831.52,9,0.1,83.15
+ORD-1119,23-08-2024,25-08-2024,California,West,Home Office,Furniture,Tables,Product_9,859.82,3,0.1,85.98
+ORD-1120,07-07-2024,10-07-2024,California,East,Consumer,Furniture,Chairs,Product_12,792.08,4,0.2,0.0
+ORD-1121,17-01-2023,19-01-2023,Florida,West,Home Office,Office Supplies,Binders,Product_17,122.51,2,0.3,-12.25
+ORD-1122,04-04-2024,11-04-2024,Illinois,East,Corporate,Office Supplies,Pens,Product_8,945.96,1,0.2,0.0
+ORD-1123,14-04-2024,20-04-2024,Florida,South,Corporate,Furniture,Chairs,Product_4,495.37,8,0.0,99.07
+ORD-1124,24-03-2023,27-03-2023,New York,East,Consumer,Technology,Phones,Product_20,636.75,9,0.2,0.0
+ORD-1125,26-01-2024,31-01-2024,Illinois,South,Home Office,Technology,Accessories,Product_14,108.19,2,0.1,10.82
+ORD-1126,16-03-2024,20-03-2024,Florida,Central,Corporate,Furniture,Tables,Product_14,732.32,6,0.3,-73.23
+ORD-1127,17-11-2023,23-11-2023,Florida,West,Home Office,Office Supplies,Paper,Product_3,100.31,2,0.0,20.06
+ORD-1128,18-03-2024,19-03-2024,Illinois,Central,Consumer,Technology,Copiers,Product_2,590.6,9,0.2,0.0
+ORD-1129,17-11-2024,18-11-2024,California,South,Home Office,Office Supplies,Paper,Product_10,604.41,6,0.0,120.88
+ORD-1130,14-08-2024,19-08-2024,California,South,Consumer,Furniture,Chairs,Product_12,846.92,6,0.0,169.38
+ORD-1131,13-10-2023,18-10-2023,Washington,East,Home Office,Furniture,Tables,Product_9,38.66,5,0.2,0.0
+ORD-1132,14-12-2023,17-12-2023,Washington,West,Home Office,Furniture,Chairs,Product_13,78.89,1,0.0,15.78
+ORD-1133,27-06-2024,29-06-2024,Texas,South,Corporate,Office Supplies,Paper,Product_12,318.52,6,0.0,63.7
+ORD-1134,23-02-2023,25-02-2023,California,East,Home Office,Furniture,Bookcases,Product_9,448.68,7,0.3,-44.87
+ORD-1135,13-09-2024,17-09-2024,California,West,Home Office,Office Supplies,Paper,Product_12,435.61,5,0.3,-43.56
+ORD-1136,23-06-2024,29-06-2024,Illinois,West,Corporate,Office Supplies,Binders,Product_2,17.61,5,0.1,1.76
+ORD-1137,21-05-2023,28-05-2023,California,Central,Consumer,Office Supplies,Paper,Product_16,749.54,3,0.1,74.95
+ORD-1138,25-01-2024,30-01-2024,Florida,Central,Consumer,Technology,Phones,Product_2,441.86,8,0.0,88.37
+ORD-1139,17-11-2023,22-11-2023,Washington,South,Home Office,Office Supplies,Pens,Product_14,296.62,7,0.0,59.32
+ORD-1140,29-11-2023,01-12-2023,Florida,Central,Consumer,Technology,Accessories,Product_4,250.88,10,0.3,-25.09
+ORD-1141,20-06-2024,21-06-2024,New York,Central,Consumer,Office Supplies,Paper,Product_6,85.62,2,0.1,8.56
+ORD-1142,24-12-2023,27-12-2023,California,West,Consumer,Technology,Copiers,Product_5,263.41,3,0.1,26.34
+ORD-1143,02-11-2024,03-11-2024,Illinois,South,Corporate,Furniture,Bookcases,Product_19,454.42,10,0.2,0.0
+ORD-1144,04-10-2024,07-10-2024,Florida,East,Corporate,Furniture,Tables,Product_10,798.37,10,0.0,159.67
+ORD-1145,27-12-2023,01-01-2024,California,South,Corporate,Furniture,Tables,Product_2,375.05,5,0.0,75.01
+ORD-1146,22-10-2024,29-10-2024,Illinois,South,Corporate,Furniture,Bookcases,Product_18,954.69,1,0.3,-95.47
+ORD-1147,08-08-2024,14-08-2024,Texas,South,Home Office,Furniture,Tables,Product_2,456.02,6,0.0,91.2
+ORD-1148,31-05-2024,06-06-2024,Florida,West,Home Office,Furniture,Chairs,Product_15,528.83,10,0.1,52.88
+ORD-1149,08-01-2024,11-01-2024,Washington,South,Corporate,Office Supplies,Paper,Product_20,61.84,6,0.0,12.37
+ORD-1150,04-12-2023,05-12-2023,New York,South,Corporate,Technology,Copiers,Product_20,874.55,6,0.0,174.91
+ORD-1151,19-08-2024,25-08-2024,Washington,Central,Home Office,Furniture,Tables,Product_13,137.66,2,0.2,0.0
+ORD-1152,26-07-2024,30-07-2024,Washington,West,Home Office,Technology,Accessories,Product_17,102.52,7,0.2,0.0
+ORD-1153,19-01-2023,22-01-2023,Florida,West,Corporate,Office Supplies,Binders,Product_7,234.28,3,0.1,23.43
+ORD-1154,21-03-2023,24-03-2023,New York,East,Home Office,Furniture,Bookcases,Product_20,139.74,7,0.1,13.97
+ORD-1155,16-06-2023,18-06-2023,Florida,West,Home Office,Technology,Copiers,Product_2,416.75,4,0.3,-41.67
+ORD-1156,17-09-2024,20-09-2024,Texas,West,Home Office,Technology,Accessories,Product_10,965.94,8,0.1,96.59
+ORD-1157,12-01-2024,18-01-2024,Florida,South,Corporate,Technology,Accessories,Product_17,532.19,3,0.1,53.22
+ORD-1158,11-09-2024,13-09-2024,Illinois,South,Corporate,Office Supplies,Binders,Product_4,714.29,9,0.0,142.86
+ORD-1159,19-10-2023,20-10-2023,Texas,South,Home Office,Furniture,Tables,Product_14,100.8,4,0.3,-10.08
+ORD-1160,24-12-2023,25-12-2023,New York,South,Home Office,Office Supplies,Binders,Product_8,392.3,2,0.2,0.0
+ORD-1161,18-08-2023,19-08-2023,Texas,Central,Consumer,Office Supplies,Binders,Product_2,294.01,8,0.1,29.4
+ORD-1162,23-12-2024,27-12-2024,California,East,Consumer,Office Supplies,Pens,Product_9,223.5,3,0.3,-22.35
+ORD-1163,24-04-2023,01-05-2023,California,Central,Consumer,Office Supplies,Binders,Product_8,425.63,10,0.3,-42.56
+ORD-1164,06-03-2023,07-03-2023,Illinois,East,Home Office,Office Supplies,Pens,Product_19,249.52,3,0.2,0.0
+ORD-1165,15-03-2024,16-03-2024,Florida,West,Home Office,Technology,Accessories,Product_6,667.73,2,0.2,0.0
+ORD-1166,11-03-2023,16-03-2023,Florida,East,Corporate,Technology,Copiers,Product_2,639.31,6,0.2,0.0
+ORD-1167,17-01-2023,20-01-2023,Washington,West,Home Office,Furniture,Tables,Product_4,773.79,6,0.1,77.38
+ORD-1168,15-02-2023,18-02-2023,Florida,West,Home Office,Technology,Accessories,Product_16,635.42,3,0.0,127.08
+ORD-1169,13-04-2024,14-04-2024,California,East,Consumer,Office Supplies,Binders,Product_11,934.04,9,0.3,-93.4
+ORD-1170,10-07-2024,14-07-2024,New York,West,Corporate,Office Supplies,Binders,Product_2,867.14,6,0.2,0.0
+ORD-1171,08-05-2023,15-05-2023,Florida,South,Home Office,Office Supplies,Paper,Product_13,345.65,3,0.3,-34.56
+ORD-1172,09-12-2024,13-12-2024,Washington,Central,Consumer,Office Supplies,Pens,Product_14,88.14,10,0.1,8.81
+ORD-1173,12-07-2024,15-07-2024,Washington,East,Corporate,Office Supplies,Binders,Product_10,313.43,10,0.3,-31.34
+ORD-1174,20-06-2023,26-06-2023,Washington,South,Consumer,Office Supplies,Paper,Product_12,618.7,7,0.2,0.0
+ORD-1175,16-10-2024,23-10-2024,Illinois,South,Corporate,Furniture,Chairs,Product_6,953.26,3,0.3,-95.33
+ORD-1176,05-02-2023,07-02-2023,Florida,Central,Corporate,Furniture,Chairs,Product_19,42.06,3,0.3,-4.21
+ORD-1177,15-01-2024,18-01-2024,New York,West,Home Office,Office Supplies,Binders,Product_13,321.24,5,0.1,32.12
+ORD-1178,27-04-2023,28-04-2023,Florida,South,Home Office,Technology,Phones,Product_18,126.58,5,0.3,-12.66
+ORD-1179,08-08-2023,13-08-2023,California,South,Consumer,Office Supplies,Pens,Product_5,854.3,8,0.1,85.43
+ORD-1180,31-12-2024,04-01-2025,New York,Central,Home Office,Furniture,Bookcases,Product_3,554.5,5,0.2,0.0
+ORD-1181,11-06-2023,17-06-2023,Illinois,West,Corporate,Technology,Copiers,Product_8,130.15,4,0.1,13.02
+ORD-1182,31-08-2023,07-09-2023,Illinois,Central,Home Office,Office Supplies,Binders,Product_12,472.73,9,0.1,47.27
+ORD-1183,18-09-2024,19-09-2024,Washington,South,Home Office,Furniture,Tables,Product_16,530.44,7,0.0,106.09
+ORD-1184,09-05-2023,12-05-2023,Washington,South,Corporate,Technology,Phones,Product_17,351.07,9,0.1,35.11
+ORD-1185,13-05-2023,17-05-2023,Texas,East,Home Office,Technology,Phones,Product_10,173.01,6,0.1,17.3
+ORD-1186,21-12-2023,26-12-2023,Washington,Central,Consumer,Office Supplies,Binders,Product_18,281.71,5,0.0,56.34
+ORD-1187,29-05-2024,04-06-2024,Washington,West,Consumer,Furniture,Bookcases,Product_20,723.43,10,0.2,0.0
+ORD-1188,31-07-2024,01-08-2024,Illinois,East,Home Office,Furniture,Chairs,Product_9,654.62,10,0.3,-65.46
+ORD-1189,24-09-2024,30-09-2024,New York,Central,Home Office,Furniture,Tables,Product_16,252.43,7,0.2,0.0
+ORD-1190,09-04-2024,10-04-2024,Florida,West,Corporate,Technology,Phones,Product_16,469.8,6,0.1,46.98
+ORD-1191,17-11-2023,24-11-2023,Texas,Central,Corporate,Technology,Accessories,Product_12,519.83,2,0.2,0.0
+ORD-1192,05-09-2023,09-09-2023,Texas,South,Consumer,Furniture,Tables,Product_4,60.1,7,0.3,-6.01
+ORD-1193,12-09-2023,19-09-2023,Texas,Central,Consumer,Furniture,Tables,Product_16,996.01,8,0.3,-99.6
+ORD-1194,12-11-2023,16-11-2023,Florida,South,Home Office,Furniture,Chairs,Product_8,222.99,6,0.0,44.6
+ORD-1195,21-02-2023,24-02-2023,Illinois,South,Corporate,Office Supplies,Pens,Product_1,848.7,7,0.1,84.87
+ORD-1196,28-09-2023,04-10-2023,Florida,Central,Consumer,Office Supplies,Paper,Product_2,574.58,4,0.2,0.0
+ORD-1197,20-07-2024,23-07-2024,New York,South,Home Office,Furniture,Tables,Product_20,683.59,2,0.1,68.36
+ORD-1198,10-04-2023,14-04-2023,Texas,Central,Consumer,Office Supplies,Paper,Product_20,514.03,9,0.0,102.81
+ORD-1199,16-02-2023,17-02-2023,Illinois,Central,Corporate,Furniture,Bookcases,Product_15,157.45,9,0.1,15.74
+ORD-1200,02-12-2023,07-12-2023,Washington,South,Home Office,Office Supplies,Binders,Product_10,597.79,9,0.3,-59.78
+ORD-1201,26-12-2024,31-12-2024,New York,East,Corporate,Office Supplies,Paper,Product_4,980.1,10,0.2,0.0
+ORD-1202,05-12-2024,11-12-2024,Washington,South,Corporate,Furniture,Bookcases,Product_19,581.86,1,0.3,-58.19
+ORD-1203,24-06-2023,29-06-2023,Washington,South,Consumer,Technology,Copiers,Product_8,41.25,2,0.1,4.12
+ORD-1204,20-01-2023,24-01-2023,Washington,West,Corporate,Office Supplies,Paper,Product_7,416.27,10,0.3,-41.63
+ORD-1205,05-03-2023,11-03-2023,New York,West,Home Office,Furniture,Bookcases,Product_16,530.22,6,0.1,53.02
+ORD-1206,15-04-2024,20-04-2024,Washington,Central,Home Office,Office Supplies,Pens,Product_9,613.98,4,0.1,61.4
+ORD-1207,13-10-2023,18-10-2023,Washington,Central,Corporate,Office Supplies,Binders,Product_7,693.34,8,0.2,0.0
+ORD-1208,06-05-2024,09-05-2024,California,Central,Corporate,Technology,Copiers,Product_19,679.86,7,0.3,-67.99
+ORD-1209,20-12-2023,27-12-2023,Washington,East,Corporate,Furniture,Tables,Product_3,352.9,8,0.2,0.0
+ORD-1210,05-05-2024,07-05-2024,Washington,Central,Home Office,Furniture,Bookcases,Product_9,145.9,10,0.1,14.59
+ORD-1211,06-09-2023,07-09-2023,Texas,West,Home Office,Technology,Copiers,Product_2,109.2,6,0.3,-10.92
+ORD-1212,13-04-2023,19-04-2023,Washington,West,Corporate,Furniture,Chairs,Product_16,482.67,4,0.2,0.0
+ORD-1213,25-11-2023,28-11-2023,Illinois,East,Home Office,Technology,Phones,Product_8,539.8,1,0.1,53.98
+ORD-1214,03-03-2024,10-03-2024,Texas,South,Corporate,Furniture,Chairs,Product_10,877.98,1,0.2,0.0
+ORD-1215,04-08-2024,09-08-2024,Washington,Central,Corporate,Furniture,Tables,Product_18,529.08,3,0.3,-52.91
+ORD-1216,07-10-2023,09-10-2023,Florida,West,Home Office,Furniture,Tables,Product_9,721.41,1,0.2,0.0
+ORD-1217,30-10-2023,04-11-2023,Washington,West,Home Office,Technology,Phones,Product_13,828.72,9,0.2,0.0
+ORD-1218,30-03-2023,03-04-2023,Florida,West,Consumer,Technology,Phones,Product_11,936.47,1,0.2,0.0
+ORD-1219,28-01-2024,30-01-2024,Illinois,Central,Corporate,Office Supplies,Paper,Product_19,21.32,6,0.1,2.13
+ORD-1220,05-03-2023,11-03-2023,Florida,Central,Consumer,Furniture,Tables,Product_17,923.87,5,0.0,184.77
+ORD-1221,16-10-2024,19-10-2024,Texas,West,Consumer,Office Supplies,Pens,Product_16,161.65,10,0.2,0.0
+ORD-1222,01-03-2024,07-03-2024,Washington,West,Consumer,Technology,Accessories,Product_20,874.4,2,0.3,-87.44
+ORD-1223,24-06-2024,30-06-2024,Illinois,East,Consumer,Office Supplies,Binders,Product_17,210.14,9,0.1,21.01
+ORD-1224,18-06-2023,21-06-2023,Texas,East,Home Office,Technology,Accessories,Product_19,493.94,9,0.3,-49.39
+ORD-1225,26-02-2023,02-03-2023,Illinois,South,Corporate,Furniture,Bookcases,Product_2,563.21,5,0.0,112.64
+ORD-1226,10-02-2024,13-02-2024,California,West,Home Office,Furniture,Bookcases,Product_2,429.46,2,0.0,85.89
+ORD-1227,12-03-2023,16-03-2023,Texas,South,Consumer,Furniture,Tables,Product_14,380.72,7,0.3,-38.07
+ORD-1228,22-01-2024,26-01-2024,New York,West,Home Office,Furniture,Bookcases,Product_4,186.69,9,0.3,-18.67
+ORD-1229,25-06-2024,27-06-2024,New York,East,Consumer,Technology,Phones,Product_15,676.76,9,0.3,-67.68
+ORD-1230,28-06-2024,02-07-2024,Texas,South,Corporate,Furniture,Chairs,Product_9,196.6,2,0.0,39.32
+ORD-1231,07-11-2024,11-11-2024,California,West,Consumer,Technology,Phones,Product_4,598.0,8,0.0,119.6
+ORD-1232,08-09-2023,14-09-2023,Illinois,South,Consumer,Furniture,Tables,Product_7,756.84,1,0.1,75.68
+ORD-1233,30-05-2024,02-06-2024,Illinois,Central,Home Office,Furniture,Bookcases,Product_11,244.53,3,0.1,24.45
+ORD-1234,28-02-2024,02-03-2024,Washington,West,Home Office,Office Supplies,Binders,Product_14,560.29,1,0.2,0.0
+ORD-1235,20-10-2024,26-10-2024,Florida,Central,Home Office,Office Supplies,Pens,Product_14,157.73,7,0.1,15.77
+ORD-1236,04-07-2024,08-07-2024,Texas,Central,Home Office,Furniture,Chairs,Product_15,915.59,9,0.3,-91.56
+ORD-1237,02-03-2024,07-03-2024,New York,South,Consumer,Technology,Phones,Product_7,336.96,2,0.3,-33.7
+ORD-1238,15-01-2024,16-01-2024,New York,West,Consumer,Technology,Copiers,Product_13,676.94,10,0.0,135.39
+ORD-1239,16-03-2023,18-03-2023,Texas,West,Corporate,Technology,Copiers,Product_11,310.16,1,0.1,31.02
+ORD-1240,14-07-2023,20-07-2023,Washington,South,Consumer,Furniture,Bookcases,Product_20,706.73,7,0.1,70.67
+ORD-1241,19-07-2024,22-07-2024,Washington,South,Home Office,Office Supplies,Paper,Product_12,315.34,6,0.3,-31.53
+ORD-1242,22-04-2024,23-04-2024,New York,Central,Consumer,Technology,Accessories,Product_11,419.79,10,0.1,41.98
+ORD-1243,30-05-2023,31-05-2023,Texas,South,Corporate,Office Supplies,Pens,Product_7,336.57,7,0.1,33.66
+ORD-1244,26-05-2024,31-05-2024,Florida,Central,Corporate,Technology,Copiers,Product_16,466.22,6,0.1,46.62
+ORD-1245,24-05-2023,30-05-2023,Washington,West,Home Office,Technology,Accessories,Product_2,528.7,2,0.0,105.74
+ORD-1246,07-01-2023,11-01-2023,Washington,West,Consumer,Furniture,Bookcases,Product_5,19.05,9,0.3,-1.9
+ORD-1247,18-01-2024,19-01-2024,Florida,South,Home Office,Technology,Copiers,Product_1,16.55,9,0.3,-1.65
+ORD-1248,13-01-2023,14-01-2023,New York,Central,Home Office,Technology,Copiers,Product_1,507.19,7,0.1,50.72
+ORD-1249,20-04-2023,21-04-2023,Illinois,West,Consumer,Technology,Phones,Product_17,259.89,6,0.2,0.0
+ORD-1250,11-02-2024,12-02-2024,Texas,South,Home Office,Office Supplies,Paper,Product_8,306.97,2,0.0,61.39
+ORD-1251,06-04-2023,10-04-2023,Washington,South,Consumer,Office Supplies,Paper,Product_1,705.82,2,0.3,-70.58
+ORD-1252,20-03-2024,26-03-2024,California,East,Home Office,Office Supplies,Pens,Product_8,219.3,10,0.3,-21.93
+ORD-1253,05-10-2023,06-10-2023,Illinois,Central,Home Office,Furniture,Bookcases,Product_2,187.56,6,0.0,37.51
+ORD-1254,01-08-2023,06-08-2023,New York,South,Consumer,Furniture,Bookcases,Product_6,568.32,10,0.3,-56.83
+ORD-1255,24-11-2024,29-11-2024,Washington,West,Home Office,Office Supplies,Paper,Product_3,505.78,6,0.0,101.16
+ORD-1256,11-04-2023,15-04-2023,Illinois,Central,Home Office,Furniture,Chairs,Product_20,402.74,6,0.0,80.55
+ORD-1257,11-10-2024,14-10-2024,Illinois,West,Corporate,Office Supplies,Paper,Product_13,437.53,10,0.3,-43.75
+ORD-1258,29-03-2023,05-04-2023,California,West,Home Office,Technology,Accessories,Product_3,275.29,7,0.1,27.53
+ORD-1259,03-02-2024,06-02-2024,New York,East,Consumer,Office Supplies,Binders,Product_15,366.32,5,0.0,73.26
+ORD-1260,16-05-2023,17-05-2023,Illinois,South,Home Office,Furniture,Tables,Product_17,413.96,1,0.0,82.79
+ORD-1261,29-12-2023,03-01-2024,California,Central,Corporate,Furniture,Bookcases,Product_10,419.67,2,0.1,41.97
+ORD-1262,08-08-2024,13-08-2024,Texas,South,Consumer,Furniture,Bookcases,Product_9,308.12,8,0.1,30.81
+ORD-1263,06-03-2023,08-03-2023,Florida,South,Corporate,Office Supplies,Paper,Product_3,367.51,4,0.3,-36.75
+ORD-1264,31-08-2024,05-09-2024,New York,East,Consumer,Furniture,Tables,Product_1,949.34,6,0.3,-94.93
+ORD-1265,04-12-2023,08-12-2023,New York,West,Corporate,Office Supplies,Paper,Product_20,947.81,4,0.3,-94.78
+ORD-1266,18-11-2023,20-11-2023,Washington,Central,Home Office,Office Supplies,Paper,Product_16,968.09,4,0.2,0.0
+ORD-1267,21-01-2024,24-01-2024,Texas,East,Home Office,Office Supplies,Paper,Product_19,997.29,3,0.0,199.46
+ORD-1268,17-04-2024,23-04-2024,California,Central,Home Office,Furniture,Tables,Product_14,676.25,3,0.2,0.0
+ORD-1269,05-09-2023,08-09-2023,California,South,Corporate,Technology,Phones,Product_15,990.79,8,0.3,-99.08
+ORD-1270,01-07-2024,06-07-2024,Washington,East,Corporate,Technology,Accessories,Product_18,597.88,2,0.0,119.58
+ORD-1271,12-09-2023,18-09-2023,Illinois,West,Home Office,Technology,Accessories,Product_2,567.59,7,0.2,0.0
+ORD-1272,16-03-2024,17-03-2024,Illinois,Central,Consumer,Furniture,Chairs,Product_17,562.41,10,0.1,56.24
+ORD-1273,01-04-2024,04-04-2024,California,West,Corporate,Office Supplies,Paper,Product_16,113.5,7,0.0,22.7
+ORD-1274,29-04-2023,06-05-2023,New York,Central,Corporate,Technology,Phones,Product_15,786.43,9,0.3,-78.64
+ORD-1275,23-12-2023,27-12-2023,California,South,Corporate,Furniture,Tables,Product_10,54.24,2,0.0,10.85
+ORD-1276,18-12-2023,24-12-2023,Texas,West,Home Office,Furniture,Bookcases,Product_17,182.71,3,0.2,0.0
+ORD-1277,27-07-2024,31-07-2024,Texas,South,Home Office,Office Supplies,Binders,Product_6,644.07,7,0.3,-64.41
+ORD-1278,30-01-2023,05-02-2023,Florida,South,Home Office,Technology,Phones,Product_13,14.41,4,0.1,1.44
+ORD-1279,13-10-2023,20-10-2023,Texas,East,Home Office,Technology,Phones,Product_12,332.73,8,0.0,66.55
+ORD-1280,26-09-2023,02-10-2023,Florida,Central,Home Office,Office Supplies,Pens,Product_20,398.62,2,0.2,0.0
+ORD-1281,27-12-2023,03-01-2024,Washington,West,Home Office,Office Supplies,Pens,Product_10,919.5,10,0.0,183.9
+ORD-1282,19-11-2024,21-11-2024,California,West,Corporate,Office Supplies,Binders,Product_6,379.57,3,0.3,-37.96
+ORD-1283,04-03-2024,09-03-2024,Texas,South,Corporate,Furniture,Bookcases,Product_16,639.15,3,0.1,63.91
+ORD-1284,16-05-2024,19-05-2024,Illinois,Central,Corporate,Furniture,Chairs,Product_2,866.87,1,0.3,-86.69
+ORD-1285,20-05-2023,22-05-2023,Washington,South,Corporate,Office Supplies,Pens,Product_16,421.47,8,0.3,-42.15
+ORD-1286,21-06-2023,22-06-2023,California,West,Corporate,Technology,Phones,Product_9,232.59,5,0.1,23.26
+ORD-1287,13-04-2024,18-04-2024,California,East,Home Office,Technology,Accessories,Product_9,777.36,6,0.0,155.47
+ORD-1288,27-03-2024,01-04-2024,Washington,East,Home Office,Furniture,Tables,Product_8,304.73,1,0.3,-30.47
+ORD-1289,27-09-2023,30-09-2023,Texas,East,Consumer,Furniture,Tables,Product_19,692.24,10,0.3,-69.22
+ORD-1290,19-06-2023,24-06-2023,Illinois,West,Consumer,Furniture,Chairs,Product_12,536.96,10,0.1,53.7
+ORD-1291,28-11-2023,04-12-2023,Washington,Central,Home Office,Office Supplies,Paper,Product_4,144.23,7,0.0,28.85
+ORD-1292,11-10-2023,18-10-2023,Texas,West,Consumer,Technology,Phones,Product_11,830.2,7,0.3,-83.02
+ORD-1293,26-05-2023,31-05-2023,Florida,South,Corporate,Technology,Accessories,Product_3,637.29,2,0.3,-63.73
+ORD-1294,11-06-2024,17-06-2024,Florida,Central,Corporate,Office Supplies,Pens,Product_11,586.14,2,0.3,-58.61
+ORD-1295,12-10-2024,18-10-2024,Florida,East,Home Office,Technology,Accessories,Product_7,968.45,4,0.3,-96.84
+ORD-1296,02-10-2023,05-10-2023,Florida,West,Home Office,Office Supplies,Paper,Product_11,895.21,1,0.0,179.04
+ORD-1297,12-04-2023,18-04-2023,Florida,East,Consumer,Office Supplies,Binders,Product_15,10.67,7,0.1,1.07
+ORD-1298,06-12-2024,08-12-2024,California,West,Corporate,Technology,Accessories,Product_12,257.89,6,0.1,25.79
+ORD-1299,23-02-2023,27-02-2023,Washington,West,Corporate,Technology,Accessories,Product_3,706.66,1,0.1,70.67
+ORD-1300,03-05-2024,04-05-2024,Washington,West,Home Office,Furniture,Bookcases,Product_15,19.19,6,0.0,3.84
+ORD-1301,08-03-2024,14-03-2024,Florida,East,Consumer,Furniture,Tables,Product_3,733.46,2,0.0,146.69
+ORD-1302,17-11-2023,20-11-2023,Washington,South,Consumer,Office Supplies,Binders,Product_5,77.73,10,0.0,15.55
+ORD-1303,16-09-2024,22-09-2024,Texas,Central,Home Office,Furniture,Tables,Product_5,920.7,10,0.3,-92.07
+ORD-1304,11-08-2023,12-08-2023,Washington,East,Home Office,Furniture,Chairs,Product_13,358.02,7,0.2,0.0
+ORD-1305,24-05-2023,26-05-2023,Illinois,East,Consumer,Office Supplies,Pens,Product_20,604.01,10,0.2,0.0
+ORD-1306,08-12-2024,09-12-2024,Illinois,West,Home Office,Technology,Accessories,Product_17,196.76,7,0.2,0.0
+ORD-1307,23-10-2024,24-10-2024,Texas,South,Consumer,Furniture,Tables,Product_16,641.7,2,0.0,128.34
+ORD-1308,05-01-2024,08-01-2024,Illinois,South,Corporate,Furniture,Tables,Product_6,765.1,2,0.0,153.02
+ORD-1309,24-08-2024,25-08-2024,California,West,Consumer,Furniture,Tables,Product_13,511.54,9,0.3,-51.15
+ORD-1310,09-03-2024,15-03-2024,California,West,Corporate,Office Supplies,Binders,Product_10,88.23,4,0.1,8.82
+ORD-1311,03-07-2024,06-07-2024,Washington,East,Corporate,Office Supplies,Pens,Product_14,732.66,4,0.0,146.53
+ORD-1312,08-09-2023,09-09-2023,Illinois,South,Home Office,Office Supplies,Binders,Product_2,316.2,3,0.0,63.24
+ORD-1313,13-01-2023,19-01-2023,Florida,East,Consumer,Furniture,Bookcases,Product_12,527.78,5,0.1,52.78
+ORD-1314,16-01-2024,18-01-2024,New York,East,Consumer,Technology,Accessories,Product_14,279.26,2,0.2,0.0
+ORD-1315,30-12-2024,04-01-2025,Illinois,South,Corporate,Technology,Phones,Product_12,64.88,10,0.1,6.49
+ORD-1316,12-01-2024,14-01-2024,Washington,East,Consumer,Office Supplies,Binders,Product_17,12.54,1,0.1,1.25
+ORD-1317,17-02-2023,21-02-2023,California,West,Consumer,Office Supplies,Paper,Product_18,805.08,7,0.1,80.51
+ORD-1318,26-11-2023,28-11-2023,California,Central,Corporate,Office Supplies,Pens,Product_19,379.08,9,0.0,75.82
+ORD-1319,03-07-2023,05-07-2023,Florida,South,Consumer,Technology,Phones,Product_10,775.79,5,0.2,0.0
+ORD-1320,30-03-2023,04-04-2023,New York,Central,Consumer,Office Supplies,Binders,Product_19,786.66,10,0.1,78.67
+ORD-1321,20-04-2024,23-04-2024,Illinois,West,Home Office,Technology,Accessories,Product_8,159.06,7,0.0,31.81
+ORD-1322,27-08-2023,01-09-2023,California,East,Corporate,Office Supplies,Pens,Product_13,850.52,5,0.0,170.1
+ORD-1323,30-07-2023,04-08-2023,Texas,South,Consumer,Furniture,Tables,Product_9,102.1,4,0.3,-10.21
+ORD-1324,18-12-2024,21-12-2024,California,East,Home Office,Office Supplies,Pens,Product_17,142.18,7,0.0,28.44
+ORD-1325,29-08-2024,03-09-2024,New York,West,Consumer,Furniture,Tables,Product_9,852.4,7,0.2,0.0
+ORD-1326,22-11-2023,26-11-2023,Texas,East,Consumer,Office Supplies,Binders,Product_19,117.88,2,0.1,11.79
+ORD-1327,05-04-2024,09-04-2024,New York,East,Home Office,Office Supplies,Paper,Product_7,457.4,8,0.2,0.0
+ORD-1328,03-05-2023,04-05-2023,Washington,Central,Home Office,Furniture,Bookcases,Product_20,49.93,6,0.1,4.99
+ORD-1329,04-04-2023,10-04-2023,California,South,Home Office,Furniture,Tables,Product_10,267.57,3,0.0,53.51
+ORD-1330,19-02-2024,26-02-2024,Florida,West,Consumer,Office Supplies,Pens,Product_4,805.86,3,0.0,161.17
+ORD-1331,13-01-2023,14-01-2023,New York,West,Corporate,Furniture,Chairs,Product_3,586.5,5,0.0,117.3
+ORD-1332,23-01-2023,24-01-2023,California,South,Consumer,Furniture,Bookcases,Product_11,131.3,8,0.0,26.26
+ORD-1333,22-06-2023,27-06-2023,California,South,Corporate,Office Supplies,Pens,Product_13,686.38,3,0.2,0.0
+ORD-1334,08-08-2023,10-08-2023,California,South,Consumer,Office Supplies,Paper,Product_20,622.98,4,0.2,0.0
+ORD-1335,25-05-2024,29-05-2024,New York,East,Consumer,Technology,Accessories,Product_13,145.86,4,0.1,14.59
+ORD-1336,07-10-2024,14-10-2024,New York,South,Home Office,Technology,Phones,Product_16,549.07,8,0.2,0.0
+ORD-1337,02-08-2024,07-08-2024,California,Central,Consumer,Office Supplies,Paper,Product_11,601.15,1,0.2,0.0
+ORD-1338,01-03-2023,08-03-2023,Texas,Central,Home Office,Office Supplies,Pens,Product_6,109.13,4,0.2,0.0
+ORD-1339,30-06-2024,07-07-2024,Florida,West,Home Office,Technology,Phones,Product_12,935.85,3,0.1,93.59
+ORD-1340,31-08-2023,05-09-2023,California,Central,Home Office,Office Supplies,Pens,Product_12,948.08,10,0.1,94.81
+ORD-1341,30-07-2024,01-08-2024,Florida,Central,Consumer,Office Supplies,Pens,Product_2,99.35,4,0.1,9.94
+ORD-1342,21-01-2023,26-01-2023,Texas,Central,Home Office,Office Supplies,Binders,Product_5,347.35,3,0.2,0.0
+ORD-1343,02-03-2023,03-03-2023,Illinois,West,Consumer,Furniture,Bookcases,Product_12,960.95,6,0.3,-96.09
+ORD-1344,23-08-2024,24-08-2024,Texas,Central,Consumer,Office Supplies,Paper,Product_14,793.92,8,0.2,0.0
+ORD-1345,28-06-2023,04-07-2023,Washington,Central,Consumer,Technology,Copiers,Product_19,816.31,7,0.2,0.0
+ORD-1346,06-12-2024,09-12-2024,Illinois,East,Home Office,Furniture,Chairs,Product_13,852.25,10,0.0,170.45
+ORD-1347,06-07-2023,11-07-2023,Illinois,West,Home Office,Office Supplies,Pens,Product_4,937.32,3,0.2,0.0
+ORD-1348,21-03-2023,23-03-2023,California,West,Home Office,Office Supplies,Paper,Product_11,452.16,5,0.1,45.22
+ORD-1349,13-09-2023,19-09-2023,Washington,Central,Consumer,Furniture,Tables,Product_1,57.67,8,0.3,-5.77
+ORD-1350,20-06-2023,24-06-2023,Florida,Central,Home Office,Office Supplies,Paper,Product_4,830.52,10,0.1,83.05
+ORD-1351,16-06-2023,20-06-2023,New York,Central,Consumer,Furniture,Chairs,Product_9,952.15,2,0.2,0.0
+ORD-1352,24-06-2023,28-06-2023,California,East,Home Office,Furniture,Bookcases,Product_11,598.09,10,0.3,-59.81
+ORD-1353,22-12-2024,23-12-2024,Florida,West,Home Office,Office Supplies,Pens,Product_6,63.02,6,0.1,6.3
+ORD-1354,14-07-2023,18-07-2023,New York,Central,Home Office,Technology,Copiers,Product_10,245.17,1,0.3,-24.52
+ORD-1355,08-08-2024,13-08-2024,California,East,Corporate,Office Supplies,Binders,Product_14,96.75,10,0.3,-9.67
+ORD-1356,24-07-2023,25-07-2023,New York,West,Home Office,Furniture,Chairs,Product_3,478.83,2,0.2,0.0
+ORD-1357,12-02-2024,16-02-2024,Washington,Central,Consumer,Office Supplies,Pens,Product_18,393.65,6,0.3,-39.36
+ORD-1358,14-01-2024,16-01-2024,Florida,Central,Corporate,Office Supplies,Binders,Product_9,233.98,5,0.0,46.8
+ORD-1359,04-06-2023,11-06-2023,Washington,East,Consumer,Technology,Copiers,Product_12,810.1,7,0.1,81.01
+ORD-1360,20-07-2024,21-07-2024,Washington,South,Home Office,Office Supplies,Pens,Product_16,576.99,4,0.3,-57.7
+ORD-1361,03-11-2023,04-11-2023,Illinois,East,Home Office,Office Supplies,Pens,Product_17,802.45,10,0.1,80.25
+ORD-1362,04-05-2023,11-05-2023,Texas,West,Consumer,Office Supplies,Binders,Product_5,52.25,2,0.3,-5.22
+ORD-1363,26-07-2023,02-08-2023,Washington,Central,Corporate,Technology,Phones,Product_3,96.16,9,0.3,-9.62
+ORD-1364,19-07-2024,22-07-2024,Washington,South,Consumer,Office Supplies,Pens,Product_20,591.7,7,0.0,118.34
+ORD-1365,29-02-2024,02-03-2024,Illinois,East,Consumer,Furniture,Bookcases,Product_4,787.89,9,0.2,0.0
+ORD-1366,25-02-2024,28-02-2024,Illinois,South,Home Office,Office Supplies,Pens,Product_16,47.09,5,0.3,-4.71
+ORD-1367,28-05-2023,02-06-2023,Florida,South,Consumer,Technology,Copiers,Product_11,693.61,1,0.3,-69.36
+ORD-1368,03-10-2023,06-10-2023,New York,Central,Corporate,Furniture,Tables,Product_16,859.65,2,0.1,85.97
+ORD-1369,18-05-2023,21-05-2023,Washington,Central,Corporate,Technology,Accessories,Product_14,608.93,2,0.1,60.89
+ORD-1370,28-03-2024,30-03-2024,New York,South,Home Office,Office Supplies,Pens,Product_2,520.12,3,0.0,104.02
+ORD-1371,15-11-2023,21-11-2023,Illinois,West,Home Office,Technology,Accessories,Product_1,182.0,4,0.0,36.4
+ORD-1372,13-09-2023,14-09-2023,Texas,Central,Home Office,Office Supplies,Binders,Product_9,374.67,8,0.3,-37.47
+ORD-1373,12-10-2024,13-10-2024,Florida,West,Corporate,Technology,Phones,Product_20,451.64,8,0.2,0.0
+ORD-1374,19-12-2023,21-12-2023,California,East,Corporate,Office Supplies,Pens,Product_13,59.15,10,0.1,5.92
+ORD-1375,15-08-2023,21-08-2023,Washington,West,Corporate,Furniture,Bookcases,Product_14,518.15,1,0.3,-51.81
+ORD-1376,16-05-2023,22-05-2023,New York,East,Consumer,Furniture,Bookcases,Product_20,807.03,5,0.2,0.0
+ORD-1377,09-03-2024,13-03-2024,Florida,Central,Consumer,Office Supplies,Paper,Product_10,680.42,10,0.3,-68.04
+ORD-1378,21-08-2024,22-08-2024,Washington,Central,Home Office,Furniture,Bookcases,Product_20,612.96,5,0.0,122.59
+ORD-1379,08-05-2024,09-05-2024,New York,Central,Corporate,Office Supplies,Paper,Product_10,196.48,9,0.1,19.65
+ORD-1380,28-02-2023,07-03-2023,Texas,Central,Home Office,Technology,Accessories,Product_1,658.85,5,0.2,0.0
+ORD-1381,04-03-2024,08-03-2024,Washington,East,Home Office,Office Supplies,Pens,Product_19,817.85,6,0.1,81.79
+ORD-1382,03-12-2024,08-12-2024,New York,Central,Home Office,Technology,Accessories,Product_6,842.23,9,0.1,84.22
+ORD-1383,28-10-2023,29-10-2023,Illinois,Central,Home Office,Office Supplies,Binders,Product_6,947.45,6,0.0,189.49
+ORD-1384,16-08-2023,19-08-2023,New York,Central,Corporate,Furniture,Bookcases,Product_12,267.95,5,0.3,-26.79
+ORD-1385,01-05-2023,05-05-2023,Texas,East,Corporate,Furniture,Bookcases,Product_17,128.62,7,0.2,0.0
+ORD-1386,28-02-2024,29-02-2024,Florida,West,Corporate,Furniture,Chairs,Product_19,893.92,8,0.1,89.39
+ORD-1387,20-11-2023,27-11-2023,New York,East,Corporate,Technology,Phones,Product_6,320.28,1,0.0,64.06
+ORD-1388,07-04-2024,10-04-2024,California,West,Corporate,Furniture,Chairs,Product_5,618.33,7,0.3,-61.83
+ORD-1389,15-03-2024,19-03-2024,Texas,East,Home Office,Office Supplies,Binders,Product_12,950.57,6,0.1,95.06
+ORD-1390,19-01-2023,25-01-2023,Washington,West,Consumer,Furniture,Bookcases,Product_12,318.97,2,0.3,-31.9
+ORD-1391,30-05-2024,04-06-2024,New York,East,Consumer,Office Supplies,Binders,Product_10,461.37,9,0.2,0.0
+ORD-1392,20-03-2024,26-03-2024,Texas,South,Corporate,Furniture,Tables,Product_6,948.6,7,0.0,189.72
+ORD-1393,22-08-2023,24-08-2023,California,West,Home Office,Technology,Phones,Product_19,509.59,2,0.2,0.0
+ORD-1394,29-12-2024,04-01-2025,Illinois,Central,Home Office,Furniture,Tables,Product_2,597.98,1,0.0,119.6
+ORD-1395,31-10-2024,07-11-2024,Florida,East,Corporate,Furniture,Chairs,Product_13,132.36,5,0.3,-13.24
+ORD-1396,19-12-2024,21-12-2024,Florida,East,Corporate,Furniture,Bookcases,Product_4,665.86,5,0.1,66.59
+ORD-1397,04-03-2024,11-03-2024,California,East,Corporate,Furniture,Bookcases,Product_4,502.76,10,0.1,50.28
+ORD-1398,27-09-2023,04-10-2023,Florida,Central,Home Office,Technology,Phones,Product_10,168.77,9,0.3,-16.88
+ORD-1399,01-08-2023,07-08-2023,California,West,Consumer,Office Supplies,Paper,Product_3,907.81,10,0.3,-90.78
+ORD-1400,02-06-2023,03-06-2023,Washington,East,Corporate,Technology,Phones,Product_8,462.18,5,0.2,0.0
+ORD-1401,20-04-2024,21-04-2024,New York,East,Corporate,Furniture,Chairs,Product_11,431.74,2,0.0,86.35
+ORD-1402,16-02-2023,17-02-2023,New York,West,Corporate,Furniture,Bookcases,Product_15,955.54,5,0.0,191.11
+ORD-1403,17-01-2024,24-01-2024,Florida,East,Corporate,Office Supplies,Binders,Product_15,279.11,7,0.3,-27.91
+ORD-1404,07-03-2024,13-03-2024,Washington,West,Home Office,Furniture,Chairs,Product_2,981.75,3,0.0,196.35
+ORD-1405,02-03-2024,07-03-2024,Illinois,South,Consumer,Office Supplies,Pens,Product_13,781.37,10,0.0,156.27
+ORD-1406,01-12-2024,08-12-2024,California,South,Corporate,Technology,Phones,Product_14,446.28,2,0.2,0.0
+ORD-1407,01-11-2024,04-11-2024,New York,West,Home Office,Furniture,Bookcases,Product_17,527.87,10,0.0,105.57
+ORD-1408,19-03-2024,25-03-2024,Washington,South,Corporate,Technology,Phones,Product_13,157.17,9,0.0,31.43
+ORD-1409,12-01-2023,18-01-2023,Texas,South,Corporate,Furniture,Bookcases,Product_3,753.92,6,0.1,75.39
+ORD-1410,05-12-2023,08-12-2023,Washington,West,Home Office,Furniture,Bookcases,Product_13,409.24,4,0.0,81.85
+ORD-1411,15-04-2024,19-04-2024,Florida,East,Corporate,Technology,Accessories,Product_11,127.52,8,0.0,25.5
+ORD-1412,16-04-2023,20-04-2023,Illinois,East,Consumer,Office Supplies,Binders,Product_20,641.16,9,0.1,64.12
+ORD-1413,01-11-2024,07-11-2024,Texas,Central,Consumer,Office Supplies,Paper,Product_15,338.65,10,0.3,-33.86
+ORD-1414,03-11-2024,06-11-2024,Washington,East,Consumer,Technology,Accessories,Product_8,12.17,6,0.2,0.0
+ORD-1415,14-07-2024,19-07-2024,Texas,East,Consumer,Office Supplies,Pens,Product_16,149.04,7,0.0,29.81
+ORD-1416,18-09-2023,23-09-2023,Texas,East,Corporate,Furniture,Chairs,Product_15,826.31,4,0.2,0.0
+ORD-1417,21-04-2023,28-04-2023,Florida,East,Corporate,Office Supplies,Binders,Product_19,956.63,3,0.3,-95.66
+ORD-1418,05-01-2023,10-01-2023,Florida,South,Home Office,Technology,Phones,Product_17,783.27,3,0.1,78.33
+ORD-1419,12-05-2023,13-05-2023,Florida,Central,Home Office,Office Supplies,Pens,Product_14,979.71,4,0.2,0.0
+ORD-1420,12-02-2024,15-02-2024,Florida,West,Consumer,Office Supplies,Paper,Product_20,703.01,9,0.2,0.0
+ORD-1421,19-12-2024,24-12-2024,Texas,West,Consumer,Office Supplies,Pens,Product_20,717.24,6,0.1,71.72
+ORD-1422,28-12-2024,03-01-2025,California,Central,Home Office,Furniture,Bookcases,Product_12,566.66,10,0.3,-56.67
+ORD-1423,21-11-2024,27-11-2024,Illinois,South,Consumer,Technology,Accessories,Product_4,35.02,3,0.0,7.0
+ORD-1424,17-11-2024,18-11-2024,Washington,West,Corporate,Furniture,Tables,Product_9,154.96,1,0.2,0.0
+ORD-1425,28-07-2023,04-08-2023,California,Central,Corporate,Technology,Phones,Product_20,869.36,9,0.1,86.94
+ORD-1426,24-10-2024,29-10-2024,Washington,Central,Home Office,Office Supplies,Binders,Product_2,927.22,7,0.3,-92.72
+ORD-1427,02-12-2024,05-12-2024,New York,East,Home Office,Technology,Phones,Product_7,624.36,8,0.1,62.44
+ORD-1428,10-10-2024,16-10-2024,Illinois,Central,Home Office,Technology,Copiers,Product_20,204.5,4,0.2,0.0
+ORD-1429,04-04-2024,06-04-2024,Washington,West,Consumer,Technology,Phones,Product_17,128.16,1,0.3,-12.82
+ORD-1430,13-10-2023,18-10-2023,New York,West,Home Office,Office Supplies,Binders,Product_1,337.26,3,0.0,67.45
+ORD-1431,07-06-2023,10-06-2023,Illinois,Central,Corporate,Technology,Phones,Product_18,364.5,6,0.1,36.45
+ORD-1432,08-07-2023,13-07-2023,Illinois,West,Corporate,Furniture,Bookcases,Product_18,409.38,6,0.1,40.94
+ORD-1433,07-08-2023,13-08-2023,Texas,Central,Corporate,Office Supplies,Paper,Product_20,535.19,9,0.0,107.04
+ORD-1434,28-04-2023,04-05-2023,Illinois,West,Home Office,Office Supplies,Paper,Product_20,251.39,1,0.2,0.0
+ORD-1435,26-01-2024,02-02-2024,Washington,Central,Home Office,Furniture,Tables,Product_10,34.46,9,0.2,0.0
+ORD-1436,10-06-2024,17-06-2024,New York,South,Consumer,Technology,Accessories,Product_7,327.11,2,0.0,65.42
+ORD-1437,21-06-2023,28-06-2023,California,East,Home Office,Technology,Copiers,Product_7,673.63,4,0.3,-67.36
+ORD-1438,17-04-2023,19-04-2023,California,South,Home Office,Technology,Copiers,Product_5,33.52,6,0.0,6.7
+ORD-1439,31-03-2023,01-04-2023,California,Central,Home Office,Furniture,Chairs,Product_19,823.4,5,0.3,-82.34
+ORD-1440,02-02-2024,06-02-2024,California,South,Corporate,Technology,Accessories,Product_13,676.57,9,0.0,135.31
+ORD-1441,18-10-2024,24-10-2024,California,East,Home Office,Technology,Phones,Product_12,928.77,2,0.2,0.0
+ORD-1442,03-12-2024,06-12-2024,Florida,Central,Corporate,Technology,Phones,Product_13,823.9,1,0.3,-82.39
+ORD-1443,10-06-2023,15-06-2023,New York,South,Home Office,Furniture,Chairs,Product_5,305.08,6,0.0,61.02
+ORD-1444,20-07-2024,27-07-2024,California,East,Consumer,Technology,Phones,Product_19,600.69,9,0.0,120.14
+ORD-1445,09-11-2023,11-11-2023,Florida,Central,Consumer,Technology,Copiers,Product_17,151.03,3,0.1,15.1
+ORD-1446,23-09-2024,30-09-2024,Washington,East,Consumer,Office Supplies,Binders,Product_19,853.73,9,0.3,-85.37
+ORD-1447,22-10-2024,27-10-2024,California,East,Corporate,Furniture,Tables,Product_7,728.33,8,0.2,0.0
+ORD-1448,01-01-2024,03-01-2024,New York,West,Consumer,Technology,Copiers,Product_20,79.11,4,0.2,0.0
+ORD-1449,12-05-2024,16-05-2024,Illinois,Central,Home Office,Office Supplies,Pens,Product_5,569.9,6,0.2,0.0
+ORD-1450,14-03-2024,16-03-2024,Washington,West,Consumer,Furniture,Tables,Product_14,283.91,6,0.1,28.39
+ORD-1451,26-11-2024,02-12-2024,New York,South,Corporate,Office Supplies,Paper,Product_10,492.1,2,0.1,49.21
+ORD-1452,23-10-2024,28-10-2024,Texas,West,Home Office,Furniture,Tables,Product_9,736.21,2,0.0,147.24
+ORD-1453,20-01-2023,27-01-2023,Illinois,East,Home Office,Technology,Copiers,Product_13,771.51,4,0.0,154.3
+ORD-1454,18-07-2024,21-07-2024,Texas,South,Home Office,Technology,Copiers,Product_12,398.57,10,0.2,0.0
+ORD-1455,18-05-2023,22-05-2023,New York,East,Corporate,Technology,Copiers,Product_17,20.49,4,0.1,2.05
+ORD-1456,10-06-2024,12-06-2024,Illinois,West,Home Office,Office Supplies,Binders,Product_5,738.56,8,0.2,0.0
+ORD-1457,11-02-2023,13-02-2023,New York,East,Corporate,Office Supplies,Binders,Product_8,52.38,4,0.2,0.0
+ORD-1458,02-02-2024,06-02-2024,New York,East,Home Office,Office Supplies,Binders,Product_4,706.7,9,0.2,0.0
+ORD-1459,27-09-2023,02-10-2023,Washington,West,Corporate,Technology,Copiers,Product_13,371.64,2,0.2,0.0
+ORD-1460,21-01-2024,23-01-2024,Florida,Central,Corporate,Technology,Accessories,Product_16,888.3,1,0.1,88.83
+ORD-1461,26-03-2024,28-03-2024,Texas,Central,Consumer,Furniture,Chairs,Product_6,165.78,10,0.0,33.16
+ORD-1462,07-11-2024,09-11-2024,Washington,East,Corporate,Office Supplies,Paper,Product_16,484.23,10,0.1,48.42
+ORD-1463,24-10-2024,31-10-2024,Texas,West,Consumer,Office Supplies,Binders,Product_19,596.42,3,0.0,119.28
+ORD-1464,09-08-2024,11-08-2024,Illinois,Central,Consumer,Furniture,Chairs,Product_13,603.36,10,0.0,120.67
+ORD-1465,08-11-2024,15-11-2024,Illinois,West,Corporate,Office Supplies,Binders,Product_16,868.63,3,0.1,86.86
+ORD-1466,25-02-2024,01-03-2024,Washington,West,Home Office,Furniture,Bookcases,Product_17,271.88,6,0.3,-27.19
+ORD-1467,02-09-2024,07-09-2024,Texas,South,Corporate,Furniture,Chairs,Product_4,26.4,9,0.3,-2.64
+ORD-1468,03-06-2023,08-06-2023,Illinois,South,Home Office,Furniture,Chairs,Product_2,878.98,9,0.0,175.8
+ORD-1469,06-04-2023,10-04-2023,Washington,East,Home Office,Technology,Phones,Product_14,526.82,6,0.0,105.36
+ORD-1470,15-12-2024,20-12-2024,New York,South,Corporate,Office Supplies,Binders,Product_19,806.57,10,0.0,161.31
+ORD-1471,11-03-2024,13-03-2024,New York,West,Consumer,Office Supplies,Paper,Product_20,878.0,7,0.2,0.0
+ORD-1472,13-07-2023,14-07-2023,Illinois,East,Home Office,Technology,Copiers,Product_4,524.56,7,0.1,52.46
+ORD-1473,05-12-2024,12-12-2024,Texas,Central,Consumer,Office Supplies,Paper,Product_14,655.06,5,0.2,0.0
+ORD-1474,02-07-2024,06-07-2024,Florida,Central,Home Office,Technology,Accessories,Product_7,419.1,9,0.3,-41.91
+ORD-1475,03-07-2023,06-07-2023,New York,South,Corporate,Technology,Copiers,Product_19,350.91,7,0.1,35.09
+ORD-1476,06-11-2024,07-11-2024,Texas,South,Home Office,Technology,Phones,Product_4,222.31,7,0.2,0.0
+ORD-1477,17-07-2024,22-07-2024,Florida,East,Consumer,Technology,Copiers,Product_1,806.33,3,0.3,-80.63
+ORD-1478,06-09-2024,10-09-2024,New York,Central,Consumer,Furniture,Chairs,Product_3,612.94,7,0.3,-61.29
+ORD-1479,20-09-2024,26-09-2024,Washington,East,Consumer,Technology,Accessories,Product_16,444.58,4,0.2,0.0
+ORD-1480,19-07-2023,20-07-2023,Texas,West,Home Office,Technology,Copiers,Product_2,366.14,1,0.1,36.61
+ORD-1481,30-03-2023,02-04-2023,Illinois,South,Corporate,Office Supplies,Paper,Product_7,522.57,2,0.0,104.51
+ORD-1482,16-07-2024,19-07-2024,New York,Central,Corporate,Technology,Copiers,Product_8,610.3,4,0.3,-61.03
+ORD-1483,18-02-2024,23-02-2024,Illinois,West,Corporate,Furniture,Tables,Product_4,563.04,9,0.2,0.0
+ORD-1484,15-12-2023,16-12-2023,Florida,Central,Home Office,Technology,Accessories,Product_13,567.54,4,0.2,0.0
+ORD-1485,14-04-2024,20-04-2024,California,East,Corporate,Office Supplies,Pens,Product_9,76.88,4,0.1,7.69
+ORD-1486,20-11-2023,24-11-2023,New York,East,Home Office,Office Supplies,Pens,Product_8,294.42,7,0.2,0.0
+ORD-1487,19-03-2023,24-03-2023,Texas,Central,Corporate,Furniture,Tables,Product_19,276.39,4,0.3,-27.64
+ORD-1488,24-07-2023,26-07-2023,Texas,Central,Consumer,Technology,Phones,Product_7,836.59,10,0.2,0.0
+ORD-1489,09-06-2023,16-06-2023,Washington,East,Home Office,Furniture,Chairs,Product_16,617.69,9,0.0,123.54
+ORD-1490,08-05-2024,11-05-2024,New York,South,Home Office,Technology,Accessories,Product_16,191.04,9,0.2,0.0
+ORD-1491,12-02-2024,14-02-2024,Florida,East,Home Office,Technology,Phones,Product_16,940.26,1,0.2,0.0
+ORD-1492,08-02-2024,15-02-2024,Washington,South,Consumer,Technology,Phones,Product_17,465.47,1,0.0,93.09
+ORD-1493,21-11-2024,23-11-2024,New York,East,Corporate,Office Supplies,Pens,Product_20,863.22,3,0.2,0.0
+ORD-1494,31-08-2023,03-09-2023,Texas,Central,Corporate,Office Supplies,Pens,Product_16,429.7,7,0.2,0.0
+ORD-1495,09-01-2024,16-01-2024,Illinois,South,Consumer,Office Supplies,Paper,Product_5,979.48,4,0.0,195.9
+ORD-1496,04-10-2023,11-10-2023,Texas,South,Corporate,Furniture,Bookcases,Product_5,802.04,3,0.3,-80.2
+ORD-1497,10-01-2023,12-01-2023,Illinois,West,Home Office,Office Supplies,Paper,Product_18,723.35,8,0.2,0.0
+ORD-1498,14-09-2023,19-09-2023,Washington,South,Consumer,Technology,Phones,Product_6,69.44,5,0.3,-6.94
+ORD-1499,06-10-2024,07-10-2024,New York,Central,Corporate,Office Supplies,Pens,Product_12,564.75,5,0.2,0.0
